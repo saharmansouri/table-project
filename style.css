@@ -1,0 +1,40 @@
+body{
+    padding: 25px;
+    font-family: "roboto",sans-serif;
+    text-align: -webkit-center;
+}
+.container{
+     width: 900px;
+     height: 800px;
+     padding: 25px;
+ }
+table tr{
+    background-color: #26232c;
+}
+table th{
+    background-color: #000;
+    color: white;
+}
+table td{
+}
+tr{
+    padding: 22px;
+    border-bottom: 3px solid #19181d;
+    color: #655f69;
+}
+td,th{
+    padding: 19px;
+    text-align: left;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+table .second{
+    background-color: #2e2c39;
+    color: #bababa;
+}
+.main{
+    font-size: 13px;
+    line-height: 20px;
+}
